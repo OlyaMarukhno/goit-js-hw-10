@@ -18,5 +18,8 @@
 @import url('./footer.css');
 
 
-/* Стили для домашних заданий */
+/* Styles for the timer */
 @import url('./1-timer.css');
+
+/* Styles for the snackbar */
+@import url('./2-snackbar.css');
